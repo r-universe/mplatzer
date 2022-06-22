@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BTYDplus"]
+	path = BTYDplus
+	url = https://github.com/mplatzer/btydplus
+	shallow = true
+	registered = true
